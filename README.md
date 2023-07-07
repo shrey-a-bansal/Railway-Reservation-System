@@ -1,4 +1,4 @@
-# Railway-Reservation-System
+# Railway Ticket Booking System
 
 The Railway Reservation System is a Python-based application that provides users with the ability to perform various tasks related to ticket booking, checking, canceling, and updating. The project utilizes a MySQL database to store user login information and is built using a Python and MySQL interface.
 
